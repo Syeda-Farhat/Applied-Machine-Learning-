@@ -21,14 +21,11 @@ Clone or download the repository to your local machine and open the Jupyter Note
 
 * Clone the repository:
 
-bash
-git clone https://github.com/Syeda-Farhat/Applied-Machine-Learning-.git
+        bash > git clone https://github.com/Syeda-Farhat/Applied-Machine-Learning-.git
 
-Start exploring the notebooks and enhance your machine learning skills!
+  Start exploring the notebooks and enhance your machine learning skills!
 
-* Feedback and Contributions:
-
-Your feedback is highly valuable. If you encounter any issues, have suggestions, or want to contribute, please open an issue or submit a pull request.
+* Feedback and Contributions: Your feedback is highly valuable. If you encounter any issues, have suggestions, or want to contribute, please open an issue or submit a pull request.
 
 # Topics 
 # Classification
@@ -89,6 +86,6 @@ Your feedback is highly valuable. If you encounter any issues, have suggestions,
 
 * [Support Vector Machines (SVM) for Regression]()
         * Support Vector Regression (SVR)
-* [Ensemble Methods for Regression]
+* [Ensemble Methods for Regression]()
         * Bagging and boosting techniques for regression tasks
         * Stacking models for improved regression performance
