@@ -38,13 +38,13 @@ Jupyter Notebooks are provided for each topic, containing detailed explanations,
   * Random Forest for multi-class problems
   * Neural Networks for multi-class classification
 
-* [Imbalanced Classification]()
+* [Imbalanced Classification](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/tree/main/Imbalanced%20Classification)
   * Techniques for handling imbalanced datasets
   * Resampling methods (oversampling, undersampling)
   * Cost-sensitive learning
   * Ensemble methods for imbalanced data
 
-* [Text Classification]()
+* [Text Classification](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/tree/main/Text%20Classification)
   * Natural Language Processing for text classification
   * Bag-of-Words and TF-IDF representations
   * Word embeddings (e.g., Word2Vec, GloVe)
