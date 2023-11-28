@@ -29,3 +29,66 @@ Start exploring the notebooks and enhance your machine learning skills!
 * Feedback and Contributions:
 
 Your feedback is highly valuable. If you encounter any issues, have suggestions, or want to contribute, please open an issue or submit a pull request.
+
+# Topics 
+## [Classification]
+* [Binary Classification]
+        Logistic Regression
+        Support Vector Machines (SVM)
+        Decision Trees
+        Random Forest
+        Neural Networks for Binary Classification
+
+* [Multi-Class Classification]
+        Multinomial Logistic Regression
+        Support Vector Machines (SVM) with multi-class support
+        Decision Trees for multi-class problems
+        Random Forest for multi-class problems
+        Neural Networks for multi-class classification
+
+* [Imbalanced Classification]
+        Techniques for handling imbalanced datasets
+        Resampling methods (oversampling, undersampling)
+        Cost-sensitive learning
+        Ensemble methods for imbalanced data
+
+* [Text Classification]
+        Natural Language Processing for text classification
+        Bag-of-Words and TF-IDF representations
+        Word embeddings (e.g., Word2Vec, GloVe)
+        Recurrent Neural Networks (RNN) for text classification
+        Transformer models (e.g., BERT) for text classification
+
+* [Image Classification]
+        Convolutional Neural Networks (CNN)
+        Transfer Learning with pre-trained models (e.g., ResNet, VGG)
+        Data augmentation techniques for image data
+        Fine-tuning models for specific tasks
+
+* [Ensemble Methods]
+        Bagging (e.g., Bootstrap Aggregating)
+        Boosting (e.g., AdaBoost, Gradient Boosting)
+        Stacking multiple models
+
+## [Regression]
+
+* [Linear Regression]
+        Simple Linear Regression
+        Multiple Linear Regression
+        Polynomial Regression
+
+* [Regularization in Regression]
+        Ridge Regression
+        Lasso Regression
+        Elastic Net Regression
+
+* [Decision Trees for Regression]
+        Regression Trees
+        Random Forest for regression
+        Gradient Boosted Trees for regression
+
+* [Support Vector Machines (SVM) for Regression]
+        Support Vector Regression (SVR)
+* [Ensemble Methods for Regression]
+        Bagging and boosting techniques for regression tasks
+        Stacking models for improved regression performance
