@@ -20,8 +20,9 @@ Jupyter Notebooks are provided for each topic, containing detailed explanations,
 * The repository will be regularly updated with new notebooks covering additional applied machine learning topics. Stay tuned for more content!
 
 # Topics 
-* [EDA using txt Data](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Data_Pre_processing_and_EDA_using_txt_data.ipynb) : The detailed data pre processing techniques are applied and explained for exploring the [dataset](https://www.kaggle.com/datasets/abhishek/spooky/data)
-* [EDA using numeric Data]()
+* [Data Preprocessing and EDA using numeric Data]()
+* [Data Preprocessing and EDA using txt Data](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Data_Pre_processing_and_EDA_using_txt_data.ipynb) : The detailed data pre processing techniques are applied and explained for exploring the [dataset](https://www.kaggle.com/datasets/abhishek/spooky/data)
+
 # Classification
 * [Binary Classification](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/tree/main/Binary%20Classification)
   * [Logistic Regression](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Binary%20Classification/Logistic_Regression.ipynb)
