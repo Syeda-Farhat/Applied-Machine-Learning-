@@ -5,27 +5,19 @@ Welcome to the "Applied Machine Learning" repository! This repository serves as 
 Jupyter Notebooks are provided for each topic, containing detailed explanations, code implementations, and practical examples. These notebooks are designed to be beginner-friendly yet offer insights for advanced users.
 
 ### How to Use This Repository:
-* Explore Topics:
-Navigate through folders to find specific topics of interest. Each topic includes a dedicated notebook with step-by-step implementations.
-* Hands-On Learning:
-Clone or download the repository to your local machine and open the Jupyter Notebooks in your favorite environment. Follow along with the code and experiment with the provided examples.
-
-* Contribute:
-        Feel free to contribute by adding your own implementations, enhancements, or additional topics. Your contributions can help create a valuable learning resource for the community.
-
-* Topics Coming Soon:
-
-    The repository will be regularly updated with new notebooks covering additional applied machine learning topics. Stay tuned for more content!
-
+* Navigate through folders to find specific topics of interest. Each topic includes a dedicated notebook with step-by-step implementations and theoritical explaination.
+* Clone or download the repository to your local machine and open the Jupyter Notebooks in your favorite environment. Follow along with the code and experiment with the provided examples.
+* Feel free to contribute by adding your own implementations, enhancements, or additional topics. Your contributions can help create a valuable learning resource for the community.
 ### Getting Started:
 
 * Clone the repository:
 
-        bash > git clone https://github.com/Syeda-Farhat/Applied-Machine-Learning-.git
+         git clone https://github.com/Syeda-Farhat/Applied-Machine-Learning-.git
 
   Start exploring the notebooks and enhance your machine learning skills!
 
-* Feedback and Contributions: Your feedback is highly valuable. If you encounter any issues, have suggestions, or want to contribute, please open an issue or submit a pull request.
+* Your feedback is highly valuable. If you encounter any issues, have suggestions, or want to contribute, please open an issue or submit a pull request.
+* The repository will be regularly updated with new notebooks covering additional applied machine learning topics. Stay tuned for more content!
 
 # Topics 
 * [EDA using txt Data](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Data_Pre_processing_and_EDA_using_txt_data.ipynb) : The detailed data pre processing techniques are applied and explained for exploring the [dataset](https://www.kaggle.com/datasets/abhishek/spooky/data)
@@ -46,48 +38,48 @@ Clone or download the repository to your local machine and open the Jupyter Note
   * Neural Networks for multi-class classification
 
 * [Imbalanced Classification]()
-        * Techniques for handling imbalanced datasets
-        * Resampling methods (oversampling, undersampling)
-        * Cost-sensitive learning
-        * Ensemble methods for imbalanced data
+  * Techniques for handling imbalanced datasets
+  * Resampling methods (oversampling, undersampling)
+  * Cost-sensitive learning
+  * Ensemble methods for imbalanced data
 
 * [Text Classification]()
-        * Natural Language Processing for text classification
-        * Bag-of-Words and TF-IDF representations
-        * Word embeddings (e.g., Word2Vec, GloVe)
-        * Recurrent Neural Networks (RNN) for text classification
-        * Transformer models (e.g., BERT) for text classification
+  * Natural Language Processing for text classification
+  * Bag-of-Words and TF-IDF representations
+  * Word embeddings (e.g., Word2Vec, GloVe)
+  * Recurrent Neural Networks (RNN) for text classification
+  * Transformer models (e.g., BERT) for text classification
 
 * [Image Classification]()
-        * Convolutional Neural Networks (CNN)
-        * Transfer Learning with pre-trained models (e.g., ResNet, VGG)
-        * Data augmentation techniques for image data
-        * Fine-tuning models for specific tasks
+  * Convolutional Neural Networks (CNN)
+  * Transfer Learning with pre-trained models (e.g., ResNet, VGG)
+  * Data augmentation techniques for image data
+  * Fine-tuning models for specific tasks
 
 * [Ensemble Methods]()
-        * Bagging (e.g., Bootstrap Aggregating)
-        * Boosting (e.g., AdaBoost, Gradient Boosting)
-        * Stacking multiple models
+  * Bagging (e.g., Bootstrap Aggregating)
+  * Boosting (e.g., AdaBoost, Gradient Boosting)
+  * Stacking multiple models
 
 # Regression
 
 * [Linear Regression]()
-        * Simple Linear Regression
-        * Multiple Linear Regression
-        * Polynomial Regression
+  * Simple Linear Regression
+  * Multiple Linear Regression
+  * Polynomial Regression
 
 * [Regularization in Regression]()
-        * Ridge Regression
-        * Lasso Regression
-        * Elastic Net Regression
+  * Ridge Regression
+  * Lasso Regression
+  * Elastic Net Regression
 
 * [Decision Trees for Regression]()
-        * Regression Trees
-        * Random Forest for regression
-        * Gradient Boosted Trees for regression
+  * Regression Trees
+  * Random Forest for regression
+  * Gradient Boosted Trees for regression
 
 * [Support Vector Machines (SVM) for Regression]()
-        * Support Vector Regression (SVR)
+  * Support Vector Regression (SVR)
 * [Ensemble Methods for Regression]()
-        * Bagging and boosting techniques for regression tasks
-        * Stacking models for improved regression performance
+  * Bagging and boosting techniques for regression tasks
+  * Stacking models for improved regression performance
