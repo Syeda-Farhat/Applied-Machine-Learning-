@@ -28,10 +28,11 @@ Clone or download the repository to your local machine and open the Jupyter Note
 * Feedback and Contributions: Your feedback is highly valuable. If you encounter any issues, have suggestions, or want to contribute, please open an issue or submit a pull request.
 
 # Topics 
-## [EDA using txt Data](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Data_Pre_processing_and_EDA_using_txt_data.ipynb) : The detailed data pre processing techniques are applied and explained for exploring the [dataset](https://www.kaggle.com/datasets/abhishek/spooky/data)
+* [EDA using txt Data](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Data_Pre_processing_and_EDA_using_txt_data.ipynb) : The detailed data pre processing techniques are applied and explained for exploring the [dataset](https://www.kaggle.com/datasets/abhishek/spooky/data)
+* [EDA using numeric Dat]()
 # Classification
 * [Binary Classification]()
-        * Logistic Regression
+        * [Logistic Regression](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Binary%20Classification/Logistic_Regression.ipynb)
         * Support Vector Machines (SVM)
         * Decision Trees
         * Random Forest
