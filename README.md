@@ -29,21 +29,21 @@ Clone or download the repository to your local machine and open the Jupyter Note
 
 # Topics 
 * [EDA using txt Data](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Data_Pre_processing_and_EDA_using_txt_data.ipynb) : The detailed data pre processing techniques are applied and explained for exploring the [dataset](https://www.kaggle.com/datasets/abhishek/spooky/data)
-* [EDA using numeric Dat]()
+* [EDA using numeric Data]()
 # Classification
 * [Binary Classification](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/tree/main/Binary%20Classification)
   * [Logistic Regression](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Binary%20Classification/Logistic_Regression.ipynb)
-        * Support Vector Machines (SVM)
-        * Decision Trees
-        * Random Forest
-        * Neural Networks for Binary Classification
+  * [Support Vector Machines (SVM)]()
+  * [Decision Trees]()
+  * [Random Forest]()
+  * [Neural Networks]()
 
-* [Multi-Class Classification]()
-        * Multinomial Logistic Regression
-        * Support Vector Machines (SVM) with multi-class support
-        * Decision Trees for multi-class problems
-        * Random Forest for multi-class problems
-        * Neural Networks for multi-class classification
+* [Multi-Class Classification](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/tree/main/Multi-Class%20Classification)
+  * Multinomial Logistic Regression
+  * Support Vector Machines (SVM) with multi-class support
+  * Decision Trees for multi-class problems
+  * Random Forest for multi-class problems
+  * Neural Networks for multi-class classification
 
 * [Imbalanced Classification]()
         * Techniques for handling imbalanced datasets
