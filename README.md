@@ -28,8 +28,8 @@ Jupyter Notebooks are provided for each topic, containing detailed explanations,
   * [Logistic Regression](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Binary%20Classification/Logistic_Regression.ipynb)
   * [Support Vector Machines (SVM)](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Binary%20Classification/SVM.ipynb)
   * [Decision Trees](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Binary%20Classification/Decision_Trees_binary_classification.ipynb)
-  * [Random Forest]()
-  * [Neural Networks]()
+  * [Random Forest]
+  * [Neural Networks]
 
 * [Multi-Class Classification](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/tree/main/Multi-Class%20Classification)
   * Multinomial Logistic Regression
@@ -51,36 +51,36 @@ Jupyter Notebooks are provided for each topic, containing detailed explanations,
   * Recurrent Neural Networks (RNN) for text classification
   * Transformer models (e.g., BERT) for text classification
 
-* [Image Classification]()
+* [Image Classification]
   * Convolutional Neural Networks (CNN)
   * Transfer Learning with pre-trained models (e.g., ResNet, VGG)
   * Data augmentation techniques for image data
   * Fine-tuning models for specific tasks
 
-* [Ensemble Methods]()
+* [Ensemble Methods]
   * Bagging (e.g., Bootstrap Aggregating)
   * Boosting (e.g., AdaBoost, Gradient Boosting)
   * Stacking multiple models
 
 # Regression
 
-* [Linear Regression]()
+* [Linear Regression]
   * Simple Linear Regression
   * Multiple Linear Regression
   * Polynomial Regression
 
-* [Regularization in Regression]()
+* [Regularization in Regression]
   * Ridge Regression
   * Lasso Regression
   * Elastic Net Regression
 
-* [Decision Trees for Regression]()
+* [Decision Trees for Regression]
   * Regression Trees
   * Random Forest for regression
   * Gradient Boosted Trees for regression
 
-* [Support Vector Machines (SVM) for Regression]()
+* [Support Vector Machines (SVM) for Regression]
   * Support Vector Regression (SVR)
-* [Ensemble Methods for Regression]()
+* [Ensemble Methods for Regression]
   * Bagging and boosting techniques for regression tasks
   * Stacking models for improved regression performance
