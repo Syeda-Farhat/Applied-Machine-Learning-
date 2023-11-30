@@ -20,8 +20,8 @@ Jupyter Notebooks are provided for each topic, containing detailed explanations,
 * The repository will be regularly updated with new notebooks covering additional applied machine learning topics. Stay tuned for more content!
 
 # Topics 
-* [Data Preprocessing and EDA using numeric Data](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Data_Preprocessing_and_EDA_using_numeric_Data.ipynb) : The detailed data pre processing techniques are applied and explained for exploring the [dataset](https://www.kaggle.com/code/weddou/uk-traffic-data-patterns-throught-space-time) .
-* [Data Preprocessing and EDA using txt Data](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Data_Pre_processing_and_EDA_using_txt_data.ipynb) : The detailed data pre processing techniques are applied and explained for exploring the [dataset](https://www.kaggle.com/datasets/abhishek/spooky/data).
+* [Data Preprocessing and EDA using numeric Data](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Data_Preprocessing_and_EDA_using_numeric_Data.ipynb) :  [dataset](https://www.kaggle.com/code/weddou/uk-traffic-data-patterns-throught-space-time) .
+* [Data Preprocessing and EDA using txt Data](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Data_Pre_processing_and_EDA_using_txt_data.ipynb) :  [dataset](https://www.kaggle.com/datasets/abhishek/spooky/data).
 
 # Classification
 * [Binary Classification](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/tree/main/Binary%20Classification)
