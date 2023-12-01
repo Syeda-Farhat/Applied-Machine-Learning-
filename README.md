@@ -29,7 +29,7 @@ Jupyter Notebooks are provided for each topic, containing detailed explanations,
   * [Support Vector Machines (SVM)](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Binary%20Classification/SVM.ipynb)
   * [Decision Trees](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Binary%20Classification/Decision_Trees_binary_classification.ipynb)
   * [Random Forest](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Binary%20Classification/Random_Forest_binary_classification.ipynb)
-  * [Neural Networks]
+  * [Neural Networks](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/blob/main/Binary%20Classification/NN_binary_classification.ipynb)
 
 * [Multi-Class Classification](https://github.com/Syeda-Farhat/Applied-Machine-Learning-/tree/main/Multi-Class%20Classification)
   * Multinomial Logistic Regression
