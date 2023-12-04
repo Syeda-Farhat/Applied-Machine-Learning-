@@ -51,12 +51,6 @@ Jupyter Notebooks are provided for each topic, containing detailed explanations,
   * Recurrent Neural Networks (RNN) for text classification
   * Transformer models (e.g., BERT) for text classification
 
-* [Image Classification]
-  * Convolutional Neural Networks (CNN)
-  * Transfer Learning with pre-trained models (e.g., ResNet, VGG)
-  * Data augmentation techniques for image data
-  * Fine-tuning models for specific tasks
-
 * [Ensemble Methods]
   * Bagging (e.g., Bootstrap Aggregating)
   * Boosting (e.g., AdaBoost, Gradient Boosting)
